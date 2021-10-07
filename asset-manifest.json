@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/1101-209410736-tododemo/static/css/main.88614bfb.chunk.css",
-    "main.js": "/1101-209410736-tododemo/static/js/main.31133667.chunk.js",
-    "main.js.map": "/1101-209410736-tododemo/static/js/main.31133667.chunk.js.map",
-    "runtime-main.js": "/1101-209410736-tododemo/static/js/runtime-main.eb6e369a.js",
-    "runtime-main.js.map": "/1101-209410736-tododemo/static/js/runtime-main.eb6e369a.js.map",
-    "static/js/2.67a3e512.chunk.js": "/1101-209410736-tododemo/static/js/2.67a3e512.chunk.js",
-    "static/js/2.67a3e512.chunk.js.map": "/1101-209410736-tododemo/static/js/2.67a3e512.chunk.js.map",
-    "static/js/3.3919b3f5.chunk.js": "/1101-209410736-tododemo/static/js/3.3919b3f5.chunk.js",
-    "static/js/3.3919b3f5.chunk.js.map": "/1101-209410736-tododemo/static/js/3.3919b3f5.chunk.js.map",
+    "main.css": "/1101-209410736-tododemo/static/css/main.065bef7a.chunk.css",
+    "main.js": "/1101-209410736-tododemo/static/js/main.0c74c9a1.chunk.js",
+    "main.js.map": "/1101-209410736-tododemo/static/js/main.0c74c9a1.chunk.js.map",
+    "runtime-main.js": "/1101-209410736-tododemo/static/js/runtime-main.5cc3137c.js",
+    "runtime-main.js.map": "/1101-209410736-tododemo/static/js/runtime-main.5cc3137c.js.map",
+    "static/js/2.4915bf2b.chunk.js": "/1101-209410736-tododemo/static/js/2.4915bf2b.chunk.js",
+    "static/js/2.4915bf2b.chunk.js.map": "/1101-209410736-tododemo/static/js/2.4915bf2b.chunk.js.map",
+    "static/js/3.060a1cf9.chunk.js": "/1101-209410736-tododemo/static/js/3.060a1cf9.chunk.js",
+    "static/js/3.060a1cf9.chunk.js.map": "/1101-209410736-tododemo/static/js/3.060a1cf9.chunk.js.map",
     "index.html": "/1101-209410736-tododemo/index.html",
-    "static/css/main.88614bfb.chunk.css.map": "/1101-209410736-tododemo/static/css/main.88614bfb.chunk.css.map",
-    "static/js/2.67a3e512.chunk.js.LICENSE.txt": "/1101-209410736-tododemo/static/js/2.67a3e512.chunk.js.LICENSE.txt"
+    "static/css/main.065bef7a.chunk.css.map": "/1101-209410736-tododemo/static/css/main.065bef7a.chunk.css.map",
+    "static/js/2.4915bf2b.chunk.js.LICENSE.txt": "/1101-209410736-tododemo/static/js/2.4915bf2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb6e369a.js",
-    "static/js/2.67a3e512.chunk.js",
-    "static/css/main.88614bfb.chunk.css",
-    "static/js/main.31133667.chunk.js"
+    "static/js/runtime-main.5cc3137c.js",
+    "static/js/2.4915bf2b.chunk.js",
+    "static/css/main.065bef7a.chunk.css",
+    "static/js/main.0c74c9a1.chunk.js"
   ]
 }
